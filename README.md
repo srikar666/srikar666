@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm K.M.Phani Srikar</h1>
+<h1 align="center">Hi 👋, I'm Srikar Kanakala</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJB9BJGAA06HB_IZqBelZjZ_Vc2TRVFz1qcx4jXSjBZIVpo3dyHuclK7npaVAobuz-Es&usqp=CAU">
 
 
-- 🌱 I’m currently learning **Javascript,Devops and Google cloud paltform**
+- 🌱 I’m currently learning **Fullstack,Devops and Java springboot**
 
 - 💬 Ask me about **google cloud, Devops,Full-stack web development**
 
